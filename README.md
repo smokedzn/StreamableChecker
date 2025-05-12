@@ -1,6 +1,6 @@
 # StreamableChecker
 
-Check a List of Streamable URLs for deleted Content. 
+Filter your Streamables and remove invalid/not-working Streamables just in a few clicks!
 
 ## Installation
 If you don't already use **Python**, you will need it for this Script to work.

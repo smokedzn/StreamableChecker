@@ -2,6 +2,8 @@
 
 Filter your Streamables and remove invalid/not-working Streamables just in a few clicks!
 
+![](https://img.shields.io/github/v/release/smokedzn/StreamableChecker) ![](https://img.shields.io/github/last-commit/smokedzn/StreamableChecker) 
+
 ## Installation
 If you don't already use **Python**, you will need it for this Script to work.
 
